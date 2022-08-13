@@ -1,7 +1,7 @@
 ---
 title: Naveen Elango
 role: Product Manager, Paytm
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpg.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
