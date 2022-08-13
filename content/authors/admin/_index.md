@@ -5,39 +5,33 @@ avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Product Management
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High Performance Computing
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/naveenelango98
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ENaveen98
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/naveen-elango/
 organizations:
   - name: Columbia University
     url: https://www.columbia.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Management Science & Engineering
+      institution: Columbia University
+      year: 2023
+    - course: BTech (Honors) in MechE
+      institution: Indian Institute of Technology Madras
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
