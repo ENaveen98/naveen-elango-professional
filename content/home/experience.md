@@ -42,7 +42,7 @@ experience:
     location: India
     date_start: '2020-09-01'
     date_end: '2021-11-05'
-    description:        
+    description: |2-        
         * Analysing
         * Modelling
         * Deploying
