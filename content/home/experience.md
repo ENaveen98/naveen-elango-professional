@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Product Manager (AdTech - Data, Targeting & Algorithms)
+    company: Paytm
+    company_url: 'https://ads.paytm.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
+    location: India
+    date_start: '2021-11-08'
+    date_end: '2022-08-10'
+    description:        
         * Analysing
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Quantitative Researcher
+    company: Trexquant Investments (Hedge Fund)
+    company_url: 'https://trexquant.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: India
+    date_start: '2020-09-01'
+    date_end: '2021-11-05'
+    description:        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
