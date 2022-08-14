@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Product Manager (AdTech - Data, Targeting & Algorithms)
+  - title: Product Manager
     company: Paytm
     company_url: 'https://ads.paytm.com/'
     company_logo: org-gc
