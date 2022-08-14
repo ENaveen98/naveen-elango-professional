@@ -25,7 +25,7 @@ experience:
   - title: Product Manager
     company: Paytm
     company_url: 'https://ads.paytm.com/'
-    company_logo: 1200px-Paytm_Logo_(standalone)
+    company_logo: 
     location: India
     date_start: '2021-11-08'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Quantitative Researcher
     company: Trexquant Investments (Hedge Fund)
     company_url: 'https://trexquant.com/'
-    company_logo: org-x
+    company_logo: 
     location: India
     date_start: '2020-09-01'
     date_end: '2021-11-05'
