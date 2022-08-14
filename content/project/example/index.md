@@ -1,41 +1,30 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: Industrial Research Project in collaboration with Advanced
+  Manufacturing Technology Development Centre (AMTDC), IIT Madras Research Park.
+url_video: ""
+date: 2022-08-14T11:09:23.113Z
+external_link: ""
+url_slides: ""
+title: Vision based Framework for Conversion of Engineering Drawings to Vector
+  based Format for CAD Applications
+tags:
+  - CV
+links:
+  - icon: fa-accessible-icon
+    icon_pack: null
+    name: Poster
+    url: https://drive.google.com/file/d/1groMt1-iApnMq7fW6wz9pVO2rya4o5VW/view?usp=sharing
+image:
+  caption: ""
+  focal_point: ""
+url_code: ""
 ---
+The conversion of manual engineering drawing images to vectorized computer aided design format is a problem that has been hugely tackled using traditional approaches in the 1990s that are considered locally optimal. In this work a Computer Vision based framework is proposed, as opposed to traditional methods, that is both highly efficient in run-time and precise in representation of the overall drawing, as opposed to being compute intensive and highly local optimal solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The conversion is done through a series of preprocessing morphological operations such as Median & Bilateral filtering, Erosion, Dilation and Skeletonization for cleaning the image, followed by novel algorithms such as FAST line detection, Hough Circle Transform and Elliptic & Line Segment Detection along with our improvements for detecting features such as lines, circles and arcs that represent the drawing.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Through this project a new 2-stage Improved Hough Circle Transform Algorithm is introduced that performs significantly better than the vanilla version in detection of Circles with minimal hyperparameter tuning. An evaluation metric called Root Mean Squared in Distance (RMSD) is defined in the Image Space for quantifying the performance of the conversion results and how various factors such as noise and complexity of the drawing affect the conversion process is discussed. The framework is tested on several engineering drawing images and the results along with aspects such as efficacy and efficiency are reported and the run-times of the algorithms are presented.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Given an image of a drawing with an orthographic view, the Framework converts it into a vector-based format which is compatible with any CAD software. The benefits for doing this include the capability to edit and modify the drawing in any CAD system. Also, when three such orthographic views are given in an image, they could all be converted to vector-based format using the same Framework. After doing so, several of the 3D CAD applications can be directly applied on these such as 3D modelling, surface and mesh modelling, finite element analysis and so on.
