@@ -25,7 +25,7 @@ experience:
   - title: Product Manager
     company: Paytm
     company_url: 'https://ads.paytm.com/'
-    company_logo: org-gc
+    company_logo: 'https://commons.wikimedia.org/wiki/File:Paytm_Logo_%28standalone%29.svg'
     location: India
     date_start: '2021-11-08'
     date_end: ''
