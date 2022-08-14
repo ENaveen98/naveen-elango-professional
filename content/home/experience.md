@@ -28,8 +28,9 @@ experience:
     company_logo: org-gc
     location: India
     date_start: '2021-11-08'
-    date_end: '2022-08-10'
-    description:        
+    date_end: ''
+    description: |2-
+        Responsibilities include:     
         * Analysing
         * Modelling
         * Deploying
