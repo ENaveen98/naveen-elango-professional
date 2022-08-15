@@ -6,6 +6,9 @@ summary: "Course: Natural Language Processing​ | ​Advisor: Dr. Sutanu
   Chakraborti, CSE, IIT Madras"
 draft: false
 featured: false
+tags:
+  - NLP
+  - ML
 links:
   - name: Paper
     url: https://arxiv.org/pdf/2012.00398.pdf
