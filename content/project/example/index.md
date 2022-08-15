@@ -1,13 +1,14 @@
 ---
 url_pdf: ""
+title: Vision based Framework for Conversion of Engineering Drawings to Vector
+  based Format for CAD Applications
 summary: Industrial Research Project in collaboration with Advanced
   Manufacturing Technology Development Centre (AMTDC), IIT Madras Research Park.
 url_video: ""
 date: 2022-08-14T11:09:23.113Z
 external_link: ""
 url_slides: ""
-title: Vision based Framework for Conversion of Engineering Drawings to Vector
-  based Format for CAD Applications
+subtitle: BTech-Project
 tags:
   - CV
 links:
