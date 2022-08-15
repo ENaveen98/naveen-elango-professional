@@ -8,7 +8,7 @@ url_video: ""
 date: 2022-08-14T11:09:23.113Z
 external_link: ""
 url_slides: ""
-subtitle: BTech-Project
+subtitle: ""
 tags:
   - CV
 links:
