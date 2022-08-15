@@ -11,7 +11,7 @@ tags:
 links:
   - name: IEEE Website
     url: https://ieeexplore.ieee.org/abstract/document/8855345
-    icon: twitter
+    icon: ""
   - name: Slides
     url: https://drive.google.com/file/d/15YciTEH3GTfgy3RJlJmdY4RC0_L0jDIt/view?usp=sharing
 image:
