@@ -15,6 +15,8 @@ links:
     icon_pack: null
     name: Poster
     url: https://drive.google.com/file/d/1groMt1-iApnMq7fW6wz9pVO2rya4o5VW/view?usp=sharing
+  - url: https://drive.google.com/file/d/1gKP9JiENDEjCTpALDi4lOTKtwONKeYBa/view?usp=sharing
+    name: Slides
 image:
   caption: ""
   focal_point: ""
