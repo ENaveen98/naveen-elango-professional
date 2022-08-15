@@ -9,7 +9,7 @@ featured: false
 links:
   - name: Paper
     url: https://arxiv.org/pdf/2012.00398.pdf
-    icon: twitter
+    icon: ""
 image:
   filename: ""
   focal_point: Smart
