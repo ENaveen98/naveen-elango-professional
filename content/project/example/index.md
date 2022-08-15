@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 summary: Industrial Research Project in collaboration with Advanced
   Manufacturing Technology Development Centre (AMTDC), IIT Madras Research Park.
