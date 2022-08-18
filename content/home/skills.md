@@ -11,8 +11,8 @@ feature:
     icon_pack: fa-solid
     name: Product Management
   - description: 
-    icon: fa-microchip-ai
-    icon_pack: fa-solid
+    icon: fa-laptop-code
+    icon_pack: fad
     name: ML/AI
   - description: 
     icon: palette
