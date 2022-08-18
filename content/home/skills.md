@@ -12,7 +12,7 @@ feature:
     name: Product Management
   - description: 
     icon: microchip-ai
-    icon_pack: fas
+    icon_pack: fa-solid
     name: ML/AI
   - description: 
     icon: palette
