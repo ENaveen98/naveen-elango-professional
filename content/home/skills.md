@@ -2,19 +2,23 @@
 widget: featurette
 widget_id: Skills-Not-Visible
 headless: true
-weight: 30
+weight: 90
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
+  - description: 
+    icon: user-tie
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Product Management
+  - description: 
+    icon: microchip-ai
     icon_pack: fas
-    name: Statistics
-  - description: 100%
+    name: ML/AI
+  - description: 
+    icon: palette
+    icon_pack: fas
+    name: Painting/Art
+  - description: 
     icon: camera-retro
     icon_pack: fas
     name: Photography
