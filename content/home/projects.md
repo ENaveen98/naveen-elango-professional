@@ -27,8 +27,18 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Machine Learning
+      tag: ML
     - name: Deep Learning
-      tag: Deep Learning
+      tag: DL
+    - name: Natural Language Processing
+      tag: NLP
+    - name: Computer Vision
+      tag: CV
+    - name: Systems
+      tag: Systems
+    - name: Software Development
+      tag: Dev
     - name: Other
       tag: Demo
 
