@@ -23,30 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Product Manager
-    company: Paytm
+    company: "**Paytm**"
     company_url: 'https://ads.paytm.com/'
     company_logo: 
     location: India
     date_start: '2021-11-08'
     date_end: '2022-08-10'
     description: |2-
-        Responsibilities include:     
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Quantitative Researcher
-    company: Trexquant Investments (Hedge Fund)
+    company: "**Trexquant Investments (Hedge Fund)**"
     company_url: 'https://trexquant.com/'
     company_logo: 
     location: India
     date_start: '2020-09-01'
     date_end: '2021-11-05'
-    description: |2-        
-        Responsibilities include:     
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |2-
 
 design:
   columns: '2'
