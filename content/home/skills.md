@@ -7,11 +7,11 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: user-tie
-    icon_pack: fab
+    icon: fa-user-tie
+    icon_pack: fa-solid
     name: Product Management
   - description: 
-    icon: microchip-ai
+    icon: fa-microchip-ai
     icon_pack: fa-solid
     name: ML/AI
   - description: 
