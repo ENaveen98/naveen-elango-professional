@@ -7,7 +7,6 @@ title: Biography
 active: true
 author: admin
 ---
-I completed my undergraduate studies from the Department of Mechanical Engineering at **Indian Institute of Technology Madras**. I am currently working as a **Product Manager** at Paytm (#1 Mobile Payments App in India) in India.
-My interests lie broadly in the area of **Artificial Intelligence** and **High Performance Computing**. I have worked on several projects involving a mix of concepts such as Deep Learning, Natural Language Processing and Computer Vision. You can find my projects in the sections below. 
+I am currently a Master's student at **Columbia University** in their Management Science and Engineering program, with over 2 years of work experience in both a product manager as well as a technical developer role. My professional experience includes working as a **Product Manager** at Paytm (#1 Mobile Payments App in India) and prior to that working in one of the most competitive industries as a **Quantitative Researcher** at Trexquant Investments (Hedge Fund). I **love building things** from scratch and hence have a steep inclination towards Product Management and my interests lie broadly in the areas of Advertising Technology (AdTech), Artificial Intelligence and Cloud Computing. 
 
-I have completed several industrial internships during my undergraduate education of which a few are a Summer Internship at AB-InBev, the world's largest brewer, and as a Global Alpha Researcher at Trexquant.
+Apart from these I like to indulge in creative artforms, such as painting, sketching, and more recently abstract photography. You can find more details and some of my interesting works in the sections below.
