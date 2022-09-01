@@ -51,7 +51,7 @@ experience:
     
   - title: Software Engineering Intern
     company: "**AlfaTKG Integrated Solutions**"
-    company_url: ''
+    company_url: 'https://www.linkedin.com/company/alfatkg/'
     company_logo: 
     location: India
     date_start: '2019-12-01'
