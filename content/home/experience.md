@@ -39,6 +39,33 @@ experience:
     date_start: '2020-09-01'
     date_end: '2021-11-05'
     description: |2-
+     
+  - title: Global Alpha Researcher
+    company: "**Trexquant Investments (Hedge Fund)**"
+    company_url: 'https://trexquant.com/'
+    company_logo: 
+    location: India
+    date_start: '2020-02-25'
+    date_end: '2020-08-31'
+    description: |2-
+    
+  - title: Software Engineering Intern
+    company: "**AlfaTKG Integrated Solutions**"
+    company_url: ''
+    company_logo: 
+    location: India
+    date_start: '2019-12-01'
+    date_end: '2020-02-24'
+    description: |2-
+    
+  - title: Data Scientist Intern
+    company: "**AB InBev**"
+    company_url: 'https://www.ab-inbev.com/careers/'
+    company_logo: 
+    location: India
+    date_start: '2019-05-13'
+    date_end: '2019-07-12'
+    description: |2-
 
 design:
   columns: '2'
